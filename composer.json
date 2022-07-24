@@ -1,0 +1,19 @@
+{
+    "name": "pysosu/contact",
+    "description": "This will send email to admin and save contact query in the database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pysosu\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sosupp",
+            "email": "prospersosu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
